@@ -1,4 +1,2 @@
-# FEbypasser
-clientReplicator Packets Spoofer Level 8 Executor only Load Getreplicator.lua to see if ur executor is supported lol
-
-spoofs packets to replicate clientsided objects done by client to server 
+patched patched patched
+this worked for work at a pizza place and super hero tycoon and hide and seek extreme (old games and others)
